@@ -1,5 +1,5 @@
 #!/bin/bash
-# shellcheck disable=SC1091
+
 
 # Color definitions
 SUCCESS="\e[1;32m"
